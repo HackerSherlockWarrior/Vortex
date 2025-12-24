@@ -219,7 +219,20 @@
       document.getElementById("site").style.display = "block";
     } else {
       error.style.display = "block";
-    }
+    }<div class="terminal">
+  &gt; Firewall bypassed<br>
+  &gt; Identity verified<br>
+  &gt; Welcome back, operator
+</div>
+
+<div class="buttons">
+  <a class="btn" href="game1.html">RUN_PROGRAM.EXE</a>
+  <a class="btn" href="game2.html">LOAD_SIMULATION.EXE</a>
+  <a class="btn" href="game3.html">EXECUTE_PROTOCOL.EXE</a>
+  <a class="btn" href="game4.html">OPEN_ARENA.EXE</a>
+</div>
+
+<a class="secret" href="secretgame.html">root</a>
   }
 </script>
 
